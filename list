@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1",
+    "name": "Strawberry Cloud",
+    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
+    "author": "Grace",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "2",
+    "name": "Cherry Swirl",
+    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
+    "author": "Ella",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "3",
+    "name": "Lemon Lollipop",
+    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
+    "author": "Finn",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "4",
+    "name": "Blueberry Bliss",
+    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
+    "author": "Daisy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "5",
+    "name": "Gummy Bear Pie",
+    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
+    "author": "Jack",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "6",
+    "name": "Candy Cane Crunch",
+    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
+    "author": "Alice",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "7",
+    "name": "Chocolate Pop",
+    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
+    "author": "Charlie",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "8",
+    "name": "Vanilla Dream",
+    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
+    "author": "Daisy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "9",
+    "name": "Peachy Chew",
+    "image": "https://i.postimg.cc/XGcLmnw8/coin-7.png",
+    "author": "Grace",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "10",
+    "name": "Raspberry Roll",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Charlie",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "11",
+    "name": "Caramel Kiss",
+    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
+    "author": "Jack",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "12",
+    "name": "Sugar Spark",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Finn",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "13",
+    "name": "Minty Melt",
+    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
+    "author": "Henry",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "14",
+    "name": "Jelly Bean Joy",
+    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
+    "author": "Daisy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "15",
+    "name": "Banana Burst",
+    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
+    "author": "Ivy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "16",
+    "name": "Berry Bomb",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Ivy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "17",
+    "name": "Mango Magic",
+    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
+    "author": "Finn",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "18",
+    "name": "Cocoa Heart",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Grace",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "19",
+    "name": "Sweet Swirl",
+    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
+    "author": "Finn",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "20",
+    "name": "Bubblegum Puff",
+    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
+    "author": "Alice",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "21",
+    "name": "Honey Treat",
+    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
+    "author": "Jack",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "22",
+    "name": "Toffee Twirl",
+    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
+    "author": "Alice",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "23",
+    "name": "Cotton Candy Cake",
+    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
+    "author": "Daisy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "24",
+    "name": "Marshmallow Muffin",
+    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
+    "author": "Henry",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "25",
+    "name": "Rainbow Delight",
+    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
+    "author": "Ella",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "26",
+    "name": "Fizzy Tart",
+    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
+    "author": "Alice",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "27",
+    "name": "Fudge Fantasy",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Daisy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "28",
+    "name": "Cherry Bomb",
+    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
+    "author": "Henry",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "29",
+    "name": "Vanilla Berry Bar",
+    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
+    "author": "Ivy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "30",
+    "name": "Creamy Cubes",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Henry",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "31",
+    "name": "Golden Gummy",
+    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
+    "author": "Ivy",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "32",
+    "name": "Magic Meringue",
+    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
+    "author": "Henry",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "33",
+    "name": "Zesty Zinger",
+    "image": "https://i.postimg.cc/XGcLmnw8/coin-7.png",
+    "author": "Finn",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "34",
+    "name": "Candy Cookie",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Grace",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "35",
+    "name": "Coconut Crown",
+    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
+    "author": "Ella",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "36",
+    "name": "Melon Drops",
+    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
+    "author": "Bella",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "37",
+    "name": "Sugar Plum Slice",
+    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
+    "author": "Jack",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "38",
+    "name": "Dreamy Drizzle",
+    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
+    "author": "Finn",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "39",
+    "name": "Fruit Fiesta",
+    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
+    "author": "Grace",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  },
+  {
+    "id": "40",
+    "name": "Pink Popcorn",
+    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
+    "author": "Grace",
+    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+  }
+]
