@@ -522,5 +522,318 @@
       "Cool completely before cutting."
     ],
     "tips": "For cleaner cuts, chill brownies 2 hours before slicing with hot knife."
+  },
+{
+    "id": "17",
+    "name": "Cinnamon Rolls",
+    "image": "https://images.unsplash.com/photo-1603532648955-039310d9ed75",
+    "author": "DoughDreamer",
+    "prepTime": "2 hours",
+    "cookTime": "25 mins",
+    "servings": 12,
+    "difficulty": "Medium",
+    "ingredients": [
+      "4 cups all-purpose flour",
+      "1 packet instant yeast",
+      "1 cup warm milk",
+      "1/3 cup granulated sugar",
+      "1/3 cup melted butter",
+      "1 tsp salt",
+      "2 large eggs",
+      "1/2 cup brown sugar",
+      "2 tbsp ground cinnamon",
+      "1/2 cup softened butter (filling)",
+      "2 cups powdered sugar (glaze)",
+      "1/4 cup milk (glaze)",
+      "1 tsp vanilla extract (glaze)"
+    ],
+    "instructions": [
+      "Mix flour, yeast, sugar and salt in bowl.",
+      "Add warm milk, melted butter and eggs; knead 5-7 minutes.",
+      "Let dough rise 1 hour until doubled.",
+      "Roll dough into 16x12 inch rectangle.",
+      "Spread softened butter, then sprinkle cinnamon-sugar mixture.",
+      "Roll tightly, cut into 12 slices.",
+      "Place in greased pan; rise 30 minutes.",
+      "Bake at 375°F (190°C) for 20-25 minutes.",
+      "Mix glaze ingredients; drizzle over warm rolls."
+    ],
+    "tips": "For overnight rolls, refrigerate after shaping and bake in morning."
+  },
+  {
+    "id": "18",
+    "name": "Crème Brûlée",
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206bfa433",
+    "author": "FrenchDessertLover",
+    "prepTime": "20 mins",
+    "cookTime": "40 mins",
+    "servings": 6,
+    "difficulty": "Medium",
+    "ingredients": [
+      "2 cups heavy cream",
+      "5 egg yolks",
+      "1/2 cup granulated sugar",
+      "1 vanilla bean (or 1 tsp extract)",
+      "Pinch of salt",
+      "3 tbsp turbinado sugar (for topping)"
+    ],
+    "instructions": [
+      "Preheat oven to 325°F (160°C).",
+      "Heat cream with scraped vanilla bean until steaming.",
+      "Whisk yolks with sugar and salt until pale.",
+      "Slowly temper hot cream into yolk mixture.",
+      "Strain into ramekins placed in baking dish.",
+      "Add hot water to reach halfway up ramekins.",
+      "Bake 35-40 minutes until set but jiggly.",
+      "Chill 4 hours minimum.",
+      "Sprinkle with turbinado sugar; torch until caramelized."
+    ],
+    "tips": "Use vanilla bean for best flavor - scrape seeds into cream."
+  },
+  {
+    "id": "19",
+    "name": "Banana Bread",
+    "image": "https://images.unsplash.com/photo-1587131372200-7a3c005b8304",
+    "author": "ComfortFoodQueen",
+    "prepTime": "15 mins",
+    "cookTime": "1 hour",
+    "servings": 10,
+    "difficulty": "Easy",
+    "ingredients": [
+      "3 ripe bananas",
+      "1/3 cup melted butter",
+      "3/4 cup brown sugar",
+      "1 egg",
+      "1 tsp vanilla extract",
+      "1 tsp baking soda",
+      "Pinch of salt",
+      "1 1/2 cups all-purpose flour",
+      "1/2 cup chopped walnuts (optional)"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Grease loaf pan.",
+      "Mash bananas in large bowl.",
+      "Mix in melted butter, then sugar, egg and vanilla.",
+      "Add baking soda and salt; stir well.",
+      "Fold in flour just until combined (add nuts if using).",
+      "Pour into pan; bake 55-60 minutes.",
+      "Cool in pan 10 minutes, then transfer to rack."
+    ],
+    "tips": "Use overripe bananas with brown spots for maximum sweetness."
+  },
+  {
+    "id": "20",
+    "name": "Panna Cotta",
+    "image": "https://images.unsplash.com/photo-1606755456206-b25206bfa433",
+    "author": "ItalianDessertPro",
+    "prepTime": "15 mins",
+    "cookTime": "5 mins",
+    "servings": 6,
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 cups heavy cream",
+      "1/2 cup whole milk",
+      "1/3 cup granulated sugar",
+      "1 vanilla bean",
+      "2 tsp gelatin powder",
+      "3 tbsp cold water",
+      "Fresh berries for serving"
+    ],
+    "instructions": [
+      "Sprinkle gelatin over cold water; let bloom 5 minutes.",
+      "Heat cream, milk, sugar and vanilla seeds until steaming.",
+      "Remove from heat; stir in bloomed gelatin until dissolved.",
+      "Strain into 6 ramekins or glasses.",
+      "Chill 4+ hours until set.",
+      "Serve with fresh berries or fruit coulis."
+    ],
+    "tips": "Dip ramekins in hot water for 3 seconds to unmold cleanly."
+  },
+  {
+    "id": "21",
+    "name": "Apple Crisp",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950",
+    "author": "FallBaker",
+    "prepTime": "20 mins",
+    "cookTime": "45 mins",
+    "servings": 8,
+    "difficulty": "Easy",
+    "ingredients": [
+      "6 cups peeled apple slices",
+      "2 tbsp lemon juice",
+      "1/3 cup granulated sugar",
+      "1 tsp cinnamon",
+      "1/4 tsp nutmeg",
+      "1 cup all-purpose flour",
+      "1 cup rolled oats",
+      "2/3 cup brown sugar",
+      "1/2 tsp salt",
+      "1/2 cup cold butter, cubed",
+      "Vanilla ice cream (for serving)"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Toss apples with lemon juice, sugar and spices.",
+      "In separate bowl, mix flour, oats, brown sugar and salt.",
+      "Cut in butter until crumbly.",
+      "Spread apples in baking dish; top with crumble.",
+      "Bake 40-45 minutes until golden and bubbly.",
+      "Serve warm with ice cream."
+    ],
+    "tips": "Use a mix of tart (Granny Smith) and sweet (Honeycrisp) apples."
+  },
+  {
+    "id": "22",
+    "name": "Chocolate Mousse",
+    "image": "https://images.unsplash.com/photo-1563805042-7684c019e1cb",
+    "author": "ChocolateArtist",
+    "prepTime": "20 mins",
+    "cookTime": "0 mins",
+    "servings": 6,
+    "difficulty": "Medium",
+    "ingredients": [
+      "7 oz dark chocolate (70%)",
+      "3 large eggs, separated",
+      "1 tbsp granulated sugar",
+      "1 cup heavy cream",
+      "Pinch of salt",
+      "Whipped cream and berries for garnish"
+    ],
+    "instructions": [
+      "Melt chocolate in double boiler; let cool slightly.",
+      "Whisk egg yolks into chocolate.",
+      "Whip cream to soft peaks; set aside.",
+      "Beat egg whites with sugar and salt to stiff peaks.",
+      "Fold whipped cream into chocolate mixture.",
+      "Gently fold in egg whites.",
+      "Divide into glasses; chill 4+ hours.",
+      "Garnish before serving."
+    ],
+    "tips": "Use room temperature eggs for best volume when whipping."
+  },
+  {
+    "id": "23",
+    "name": "Baklava",
+    "image": "https://images.unsplash.com/photo-1607923432600-2455a2d3e546",
+    "author": "MediterraneanChef",
+    "prepTime": "45 mins",
+    "cookTime": "50 mins",
+    "servings": 24,
+    "difficulty": "Advanced",
+    "ingredients": [
+      "1 lb phyllo dough",
+      "2 cups chopped walnuts",
+      "1 cup chopped pistachios",
+      "1 tsp cinnamon",
+      "1/4 tsp cloves",
+      "1 cup unsalted butter, melted",
+      "1 cup water",
+      "1 cup granulated sugar",
+      "1/2 cup honey",
+      "1 tsp lemon juice",
+      "1 tsp vanilla extract"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Mix nuts with cinnamon and cloves.",
+      "Brush 9x13 pan with butter; layer 8 phyllo sheets, buttering each.",
+      "Sprinkle 1/3 nut mixture; repeat layers twice.",
+      "Top with remaining phyllo, buttering each layer.",
+      "Cut into diamonds before baking.",
+      "Bake 45-50 minutes until golden.",
+      "Meanwhile, make syrup by boiling water, sugar, honey, lemon juice and vanilla.",
+      "Pour hot syrup over baked baklava; cool completely."
+    ],
+    "tips": "Keep phyllo covered with damp towel to prevent drying."
+  },
+  {
+    "id": "24",
+    "name": "Key Lime Pie",
+    "image": "https://images.unsplash.com/photo-1606914465061-9d4e3627c8a3",
+    "author": "TropicalBaker",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 8,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1 1/2 cups graham cracker crumbs",
+      "1/3 cup granulated sugar",
+      "6 tbsp melted butter",
+      "4 egg yolks",
+      "14 oz sweetened condensed milk",
+      "1/2 cup key lime juice",
+      "1 tbsp lime zest",
+      "Whipped cream for garnish"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Mix crumbs, sugar and butter; press into pie pan.",
+      "Bake crust 10 minutes; cool slightly.",
+      "Whisk egg yolks until pale.",
+      "Add condensed milk, lime juice and zest; mix well.",
+      "Pour into crust; bake 15 minutes.",
+      "Cool to room temperature, then chill 4+ hours.",
+      "Top with whipped cream before serving."
+    ],
+    "tips": "Use fresh key limes for authentic flavor (about 20 limes needed)."
+  },
+  {
+    "id": "25",
+    "name": "Churros",
+    "image": "https://images.unsplash.com/photo-1581018494196-809d6a8235fe",
+    "author": "SpanishTreats",
+    "prepTime": "20 mins",
+    "cookTime": "15 mins",
+    "servings": 12,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1 cup water",
+      "1/4 cup unsalted butter",
+      "1 tbsp granulated sugar",
+      "1/4 tsp salt",
+      "1 cup all-purpose flour",
+      "2 large eggs",
+      "1 tsp vanilla extract",
+      "Vegetable oil for frying",
+      "1/2 cup sugar + 1 tsp cinnamon (coating)"
+    ],
+    "instructions": [
+      "Heat water, butter, sugar and salt to boil.",
+      "Remove from heat; stir in flour until smooth.",
+      "Cool 5 minutes; beat in eggs one at a time, then vanilla.",
+      "Pipe 4-inch strips into 375°F (190°C) oil using star tip.",
+      "Fry 2-3 minutes per side until golden.",
+      "Drain on paper towels; roll in cinnamon sugar.",
+      "Serve with chocolate dipping sauce."
+    ],
+    "tips": "Use a piping bag with large star tip for classic ridges."
+  },
+  {
+    "id": "26",
+    "name": "Mochi Ice Cream",
+    "image": "https://images.unsplash.com/photo-1633190206143-e618bc3c0e5b",
+    "author": "JapaneseDessertMaster",
+    "prepTime": "30 mins",
+    "cookTime": "5 mins",
+    "servings": 12,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1 1/2 cups mochiko (sweet rice flour)",
+      "1/2 cup granulated sugar",
+      "1 cup water",
+      "1/2 cup cornstarch (for dusting)",
+      "12 small scoops ice cream (various flavors)",
+      "Food coloring (optional)"
+    ],
+    "instructions": [
+      "Whisk mochiko, sugar and water until smooth.",
+      "Microwave 1 minute; stir. Repeat until thick and translucent.",
+      "Dust surface with cornstarch; roll dough 1/8-inch thick.",
+      "Cut into 4-inch circles; freeze 10 minutes.",
+      "Place ice cream scoop in center; wrap dough around.",
+      "Pinch seams closed; freeze 2+ hours.",
+      "Thaw 5 minutes before serving."
+    ],
+    "tips": "Work quickly as dough becomes less pliable when cool."
   }
 ]
