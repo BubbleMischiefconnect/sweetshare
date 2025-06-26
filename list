@@ -1,282 +1,526 @@
 [
-  {
+
+{
     "id": "1",
-    "name": "Strawberry Cloud",
-    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
-    "author": "Grace",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Classic Chocolate Chip Cookies",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+    "author": "BakerSarah92",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 24,
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "1 cup unsalted butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup packed brown sugar",
+      "2 large eggs",
+      "2 tsp vanilla extract",
+      "2 cups semisweet chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Mix flour, baking soda, and salt in a bowl.",
+      "Cream butter and sugars until light and fluffy.",
+      "Beat in eggs one at a time, then vanilla.",
+      "Gradually add dry ingredients to wet.",
+      "Fold in chocolate chips.",
+      "Drop tablespoon-sized dough onto baking sheets.",
+      "Bake for 9-11 minutes until edges are golden.",
+      "Cool on wire racks."
+    ],
+    "tips": "For chewier cookies, replace 1/4 cup butter with 1/4 cup vegetable oil."
   },
   {
     "id": "2",
-    "name": "Cherry Swirl",
-    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
-    "author": "Ella",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "French Macarons",
+    "image": "https://images.unsplash.com/photo-1558326567-98ae2405596b",
+    "author": "ParisPatisserie",
+    "prepTime": "45 mins",
+    "cookTime": "15 mins",
+    "servings": 20,
+    "difficulty": "Advanced",
+    "ingredients": [
+      "1 3/4 cups powdered sugar",
+      "1 cup almond flour",
+      "3 large egg whites",
+      "1/4 cup granulated sugar",
+      "1/2 tsp vanilla extract",
+      "Gel food coloring (optional)",
+      "1/2 cup buttercream or ganache (filling)"
+    ],
+    "instructions": [
+      "Sift powdered sugar and almond flour together twice.",
+      "Beat egg whites until foamy, then gradually add sugar.",
+      "Whip to stiff peaks (about 8 minutes).",
+      "Gently fold dry ingredients into meringue in thirds.",
+      "Pipe 1-inch circles onto parchment-lined trays.",
+      "Let rest 30-60 minutes until dry to the touch.",
+      "Bake at 300°F (150°C) for 15 minutes.",
+      "Cool completely before filling."
+    ],
+    "tips": "Age egg whites at room temperature for 24 hours for better texture."
   },
   {
     "id": "3",
-    "name": "Lemon Lollipop",
-    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
-    "author": "Finn",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "New York Cheesecake",
+    "image": "https://images.unsplash.com/photo-1578775887804-699de7086ef9",
+    "author": "TheCheesecakeGuy",
+    "prepTime": "30 mins",
+    "cookTime": "1 hour 30 mins",
+    "servings": 12,
+    "difficulty": "Medium",
+    "ingredients": [
+      "2 cups graham cracker crumbs",
+      "1/2 cup melted butter",
+      "1/4 cup sugar",
+      "4 (8 oz) packages cream cheese",
+      "1 1/2 cups sugar",
+      "4 large eggs",
+      "1 cup sour cream",
+      "1/4 cup flour",
+      "2 tsp vanilla extract"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Mix crumbs, butter, and sugar; press into a 9-inch springform pan.",
+      "Beat cream cheese and sugar until smooth.",
+      "Add eggs one at a time, then sour cream, flour, and vanilla.",
+      "Pour into crust; place pan in a water bath.",
+      "Bake for 1 hour 30 minutes until center is almost set.",
+      "Turn off oven; let cool inside for 1 hour.",
+      "Chill overnight."
+    ],
+    "tips": "Run a knife around the edge before cooling to prevent cracks."
   },
   {
     "id": "4",
-    "name": "Blueberry Bliss",
-    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
-    "author": "Daisy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Tiramisu",
+    "image": "https://images.unsplash.com/photo-1535332371349-a5ad22916d05",
+    "author": "ItalianDolce",
+    "prepTime": "30 mins",
+    "cookTime": "0 mins",
+    "servings": 12,
+    "difficulty": "Medium",
+    "ingredients": [
+      "6 egg yolks",
+      "3/4 cup sugar",
+      "2/3 cup milk",
+      "1 1/4 cups heavy cream",
+      "1/2 tsp vanilla",
+      "1 lb mascarpone",
+      "1/4 cup espresso",
+      "2 tbsp rum",
+      "24 ladyfingers",
+      "2 tbsp cocoa powder"
+    ],
+    "instructions": [
+      "Whisk yolks and sugar over a double boiler for 10 minutes.",
+      "Remove from heat; beat until thick. Stir in milk.",
+      "Whip cream and vanilla to stiff peaks.",
+      "Fold mascarpone into yolk mixture, then fold in whipped cream.",
+      "Mix espresso and rum in a shallow dish.",
+      "Quickly dip ladyfingers (do not soak).",
+      "Layer in a 9x13 dish with cream mixture.",
+      "Dust with cocoa; refrigerate 6+ hours."
+    ],
+    "tips": "For a non-alcoholic version, replace rum with vanilla."
   },
   {
     "id": "5",
-    "name": "Gummy Bear Pie",
-    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
-    "author": "Jack",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Red Velvet Cupcakes",
+    "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7",
+    "author": "CupcakeQueen",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 16,
+    "difficulty": "Medium",
+    "ingredients": [
+      "2 1/2 cups flour",
+      "1 1/2 cups sugar",
+      "1 tsp baking soda",
+      "1 tsp cocoa powder",
+      "1 tsp salt",
+      "2 eggs",
+      "1 1/2 cups vegetable oil",
+      "1 cup buttermilk",
+      "2 tbsp red food coloring",
+      "1 tsp vanilla",
+      "1 tsp vinegar",
+      "Cream cheese frosting"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Line muffin tins.",
+      "Whisk dry ingredients in a bowl.",
+      "Beat wet ingredients in another bowl.",
+      "Combine wet and dry; mix until just incorporated.",
+      "Fill liners 2/3 full; bake 18-20 minutes.",
+      "Cool completely before frosting."
+    ],
+    "tips": "Use gel food coloring for vibrant color without extra liquid."
   },
   {
     "id": "6",
-    "name": "Candy Cane Crunch",
-    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
-    "author": "Alice",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Salted Caramel Brownies",
+    "image": "https://images.unsplash.com/photo-1622732795328-01728a444a11",
+    "author": "ChocoholicMike",
+    "prepTime": "25 mins",
+    "cookTime": "35 mins",
+    "servings": 16,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1 cup butter",
+      "8 oz dark chocolate",
+      "1 1/4 cups sugar",
+      "3/4 cup brown sugar",
+      "4 eggs",
+      "1 tbsp vanilla",
+      "1 cup flour",
+      "1/2 cup cocoa powder",
+      "1 tsp salt",
+      "1 cup caramel sauce",
+      "Flaky sea salt"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Line a 9x13 pan.",
+      "Melt butter and chocolate; cool slightly.",
+      "Whisk in sugars, then eggs one at a time, then vanilla.",
+      "Fold in flour, cocoa, and salt.",
+      "Layer batter and caramel in pan; swirl.",
+      "Bake 30-35 minutes.",
+      "Drizzle with caramel; sprinkle sea salt.",
+      "Chill before slicing."
+    ],
+    "tips": "Use a hot knife for clean cuts."
   },
   {
     "id": "7",
-    "name": "Chocolate Pop",
-    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
-    "author": "Charlie",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Lemon Blueberry Tart",
+    "image": "https://images.unsplash.com/photo-1563720360170-62e5e8c8142e",
+    "author": "TartArtisan",
+    "prepTime": "40 mins",
+    "cookTime": "25 mins",
+    "servings": 8,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1 1/2 cups flour",
+      "1/2 cup powdered sugar",
+      "1/2 cup cold butter",
+      "1 egg yolk",
+      "4 lemons (zest + juice)",
+      "1 cup sugar",
+      "3 eggs",
+      "1/2 cup heavy cream",
+      "2 cups fresh blueberries",
+      "1 tbsp apricot jam (glaze)"
+    ],
+    "instructions": [
+      "Pulse flour, powdered sugar, and butter in a food processor.",
+      "Add egg yolk; mix until dough forms.",
+      "Press into tart pan; chill 30 minutes.",
+      "Bake at 350°F (175°C) for 15 minutes.",
+      "Whisk lemon zest/juice, sugar, eggs, and cream.",
+      "Pour into crust; bake 25 minutes.",
+      "Cool; top with blueberries and glaze."
+    ],
+    "tips": "Blind bake the crust with pie weights to prevent shrinkage."
   },
   {
     "id": "8",
-    "name": "Vanilla Dream",
-    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
-    "author": "Daisy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Chocolate Lava Cakes",
+    "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d",
+    "author": "MoltenMaster",
+    "prepTime": "15 mins",
+    "cookTime": "12 mins",
+    "servings": 4,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1/2 cup butter",
+      "4 oz dark chocolate",
+      "1 cup powdered sugar",
+      "2 eggs",
+      "2 egg yolks",
+      "1 tsp vanilla",
+      "1/4 cup flour",
+      "Pinch of salt",
+      "Vanilla ice cream (for serving)"
+    ],
+    "instructions": [
+      "Preheat oven to 425°F (220°C). Grease ramekins.",
+      "Melt butter and chocolate; whisk in sugar.",
+      "Beat in eggs, yolks, and vanilla.",
+      "Fold in flour and salt.",
+      "Divide batter among ramekins.",
+      "Bake 12 minutes until edges are set but centers are soft.",
+      "Invert onto plates; serve immediately with ice cream."
+    ],
+    "tips": "Underbake by 1 minute for extra lava flow."
   },
   {
     "id": "9",
-    "name": "Peachy Chew",
-    "image": "https://i.postimg.cc/XGcLmnw8/coin-7.png",
-    "author": "Grace",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Pumpkin Spice Cupcakes",
+    "image": "https://images.unsplash.com/photo-1542828771-7a257007b6bd",
+    "author": "AutumnBaker",
+    "prepTime": "20 mins",
+    "cookTime": "22 mins",
+    "servings": 18,
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 cups flour",
+      "1 tsp baking soda",
+      "1 tsp baking powder",
+      "1 tbsp pumpkin spice",
+      "1/2 tsp salt",
+      "1 (15 oz) can pumpkin puree",
+      "1 cup sugar",
+      "1/2 cup brown sugar",
+      "1/2 cup vegetable oil",
+      "2 eggs",
+      "1 tsp vanilla",
+      "Cinnamon cream cheese frosting"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Line muffin tins.",
+      "Whisk dry ingredients in a bowl.",
+      "In another bowl, mix pumpkin, sugars, oil, eggs, and vanilla.",
+      "Combine wet and dry ingredients.",
+      "Fill liners 3/4 full; bake 20-22 minutes.",
+      "Cool; frost with cinnamon cream cheese frosting."
+    ],
+    "tips": "Use canned pumpkin, not pumpkin pie filling."
   },
   {
     "id": "10",
-    "name": "Raspberry Roll",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Charlie",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Peanut Butter Blossoms",
+    "image": "https://images.unsplash.com/photo-1586943101769-4e111b8e1a14",
+    "author": "NuttyBaker",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 36,
+    "difficulty": "Easy",
+    "ingredients": [
+      "1 3/4 cups flour",
+      "1 tsp baking soda",
+      "1/2 tsp salt",
+      "1/2 cup butter, softened",
+      "1/2 cup peanut butter",
+      "1/2 cup sugar",
+      "1/2 cup brown sugar",
+      "1 egg",
+      "1 tsp vanilla",
+      "36 milk chocolate kisses"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "Whisk flour, baking soda, and salt.",
+      "Cream butter, peanut butter, and sugars.",
+      "Beat in egg and vanilla.",
+      "Gradually add dry ingredients.",
+      "Roll into 1-inch balls; coat in sugar.",
+      "Bake 8-10 minutes; press chocolate kiss into center.",
+      "Cool on wire racks."
+    ],
+    "tips": "Unwrap chocolates while cookies bake for easy assembly."
   },
   {
     "id": "11",
-    "name": "Caramel Kiss",
-    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
-    "author": "Jack",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Classic Chocolate Chip Cookies",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e",
+    "author": "BakerSarah92",
+    "prepTime": "15 mins",
+    "cookTime": "10 mins",
+    "servings": 24,
+    "difficulty": "Easy",
+    "ingredients": [
+      "2 1/4 cups all-purpose flour",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "1 cup unsalted butter, softened",
+      "3/4 cup granulated sugar",
+      "3/4 cup packed brown sugar",
+      "2 large eggs",
+      "2 tsp vanilla extract",
+      "2 cups semisweet chocolate chips"
+    ],
+    "instructions": [
+      "Preheat oven to 375°F (190°C).",
+      "In small bowl, mix flour, baking soda and salt.",
+      "In large bowl, beat butter and sugars until creamy.",
+      "Add eggs one at a time, then vanilla, beating well.",
+      "Gradually beat in flour mixture.",
+      "Stir in chocolate chips.",
+      "Drop rounded tablespoons onto ungreased baking sheets.",
+      "Bake 9-11 minutes until golden brown.",
+      "Cool on baking sheets 2 minutes; remove to wire racks."
+    ],
+    "tips": "For chewier cookies, substitute 1/4 cup butter with 1/4 cup vegetable oil."
   },
   {
     "id": "12",
-    "name": "Sugar Spark",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Finn",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "French Macarons",
+    "image": "https://images.unsplash.com/photo-1558326567-98ae2405596b",
+    "author": "ParisPatisserie",
+    "prepTime": "45 mins",
+    "cookTime": "15 mins",
+    "servings": 20,
+    "difficulty": "Advanced",
+    "ingredients": [
+      "1 3/4 cups powdered sugar",
+      "1 cup almond flour",
+      "3 large egg whites, room temperature",
+      "1/4 cup granulated sugar",
+      "1/2 tsp vanilla extract",
+      "Food coloring (optional)",
+      "Buttercream or ganache for filling"
+    ],
+    "instructions": [
+      "Sift together powdered sugar and almond flour twice.",
+      "Beat egg whites until foamy, gradually add granulated sugar.",
+      "Continue beating until stiff peaks form (about 8 minutes).",
+      "Gently fold in dry ingredients in three batches.",
+      "Pipe 1-inch circles onto parchment-lined baking sheets.",
+      "Let sit at room temperature for 30-60 minutes until dry to touch.",
+      "Bake at 300°F (150°C) for 15 minutes, rotating halfway.",
+      "Cool completely before filling."
+    ],
+    "tips": "Aging egg whites (leave covered at room temp for 24 hours) improves texture."
   },
   {
     "id": "13",
-    "name": "Minty Melt",
-    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
-    "author": "Henry",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "New York Cheesecake",
+    "image": "https://images.unsplash.com/photo-1578775887804-699de7086ef9",
+    "author": "TheCheesecakeGuy",
+    "prepTime": "30 mins",
+    "cookTime": "1 hour 30 mins",
+    "servings": 12,
+    "difficulty": "Medium",
+    "ingredients": [
+      "2 cups graham cracker crumbs",
+      "1/2 cup melted butter",
+      "1/4 cup sugar",
+      "4 (8oz) packages cream cheese, softened",
+      "1 1/2 cups sugar",
+      "4 large eggs",
+      "1 cup sour cream",
+      "1/4 cup all-purpose flour",
+      "2 tsp vanilla extract"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C).",
+      "Mix crumbs, butter and 1/4 cup sugar; press into 9-inch springform pan.",
+      "Beat cream cheese and 1 1/2 cups sugar until smooth.",
+      "Add eggs one at a time, then sour cream, flour and vanilla.",
+      "Pour over crust; place pan in large baking dish with 1 inch hot water.",
+      "Bake 1 hour 30 minutes until center is almost set.",
+      "Turn off oven; leave door ajar for 1 hour.",
+      "Chill 4 hours minimum, preferably overnight."
+    ],
+    "tips": "Run knife around edge before cooling to prevent cracking."
   },
   {
     "id": "14",
-    "name": "Jelly Bean Joy",
-    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
-    "author": "Daisy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Tiramisu",
+    "image": "https://images.unsplash.com/photo-1535332371349-a5ad22916d05",
+    "author": "ItalianDolce",
+    "prepTime": "30 mins",
+    "cookTime": "0 mins",
+    "servings": 12,
+    "difficulty": "Medium",
+    "ingredients": [
+      "6 egg yolks",
+      "3/4 cup white sugar",
+      "2/3 cup milk",
+      "1 1/4 cups heavy cream",
+      "1/2 tsp vanilla extract",
+      "1 lb mascarpone cheese",
+      "1/4 cup strong brewed coffee, room temperature",
+      "2 tbsp rum",
+      "24 ladyfinger cookies",
+      "2 tbsp cocoa powder"
+    ],
+    "instructions": [
+      "Whisk yolks and sugar in heatproof bowl over simmering water for 10 minutes.",
+      "Remove from heat; beat until thick and pale. Add milk and continue beating.",
+      "In separate bowl, whip cream and vanilla to stiff peaks.",
+      "Fold mascarpone into yolk mixture, then fold in whipped cream.",
+      "Combine coffee and rum in shallow dish.",
+      "Quickly dip ladyfingers in coffee mixture (don't soak).",
+      "Layer half in 9x13 dish; spread half mascarpone mixture.",
+      "Repeat layers; dust with cocoa.",
+      "Refrigerate at least 6 hours, preferably overnight."
+    ],
+    "tips": "For alcohol-free version, replace rum with 1 tsp vanilla extract."
   },
   {
     "id": "15",
-    "name": "Banana Burst",
-    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
-    "author": "Ivy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Red Velvet Cupcakes",
+    "image": "https://images.unsplash.com/photo-1614707267537-b85aaf00c4b7",
+    "author": "CupcakeQueen",
+    "prepTime": "20 mins",
+    "cookTime": "20 mins",
+    "servings": 16,
+    "difficulty": "Medium",
+    "ingredients": [
+      "2 1/2 cups all-purpose flour",
+      "1 1/2 cups sugar",
+      "1 tsp baking soda",
+      "1 tsp cocoa powder",
+      "1 tsp salt",
+      "2 large eggs",
+      "1 1/2 cups vegetable oil",
+      "1 cup buttermilk",
+      "2 tbsp red food coloring",
+      "1 tsp vanilla extract",
+      "1 tsp white vinegar",
+      "Cream cheese frosting"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Line muffin tins.",
+      "Whisk dry ingredients (flour through salt) in bowl.",
+      "In separate bowl, beat eggs with oil, buttermilk, food coloring, vanilla and vinegar.",
+      "Add dry ingredients to wet; mix just until combined.",
+      "Fill liners 2/3 full; bake 18-20 minutes.",
+      "Cool completely before frosting.",
+      "Pipe cream cheese frosting using star tip.",
+      "Optional: sprinkle with red velvet crumbs."
+    ],
+    "tips": "Use gel food coloring for more vibrant color without altering texture."
   },
   {
     "id": "16",
-    "name": "Berry Bomb",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Ivy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "17",
-    "name": "Mango Magic",
-    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
-    "author": "Finn",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "18",
-    "name": "Cocoa Heart",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Grace",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "19",
-    "name": "Sweet Swirl",
-    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
-    "author": "Finn",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "20",
-    "name": "Bubblegum Puff",
-    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
-    "author": "Alice",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "21",
-    "name": "Honey Treat",
-    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
-    "author": "Jack",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "22",
-    "name": "Toffee Twirl",
-    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
-    "author": "Alice",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "23",
-    "name": "Cotton Candy Cake",
-    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
-    "author": "Daisy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "24",
-    "name": "Marshmallow Muffin",
-    "image": "https://i.postimg.cc/SJZTmQH1/coin-2.png",
-    "author": "Henry",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "25",
-    "name": "Rainbow Delight",
-    "image": "https://i.postimg.cc/tZHDBsVJ/coin-6.png",
-    "author": "Ella",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "26",
-    "name": "Fizzy Tart",
-    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
-    "author": "Alice",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "27",
-    "name": "Fudge Fantasy",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Daisy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "28",
-    "name": "Cherry Bomb",
-    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
-    "author": "Henry",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "29",
-    "name": "Vanilla Berry Bar",
-    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
-    "author": "Ivy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "30",
-    "name": "Creamy Cubes",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Henry",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "31",
-    "name": "Golden Gummy",
-    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
-    "author": "Ivy",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "32",
-    "name": "Magic Meringue",
-    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
-    "author": "Henry",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "33",
-    "name": "Zesty Zinger",
-    "image": "https://i.postimg.cc/XGcLmnw8/coin-7.png",
-    "author": "Finn",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "34",
-    "name": "Candy Cookie",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Grace",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "35",
-    "name": "Coconut Crown",
-    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
-    "author": "Ella",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "36",
-    "name": "Melon Drops",
-    "image": "https://i.postimg.cc/k2BjG3mJ/coin-3.png",
-    "author": "Bella",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "37",
-    "name": "Sugar Plum Slice",
-    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
-    "author": "Jack",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "38",
-    "name": "Dreamy Drizzle",
-    "image": "https://i.postimg.cc/XZ5QKfqt/coin-4.png",
-    "author": "Finn",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "39",
-    "name": "Fruit Fiesta",
-    "image": "https://i.postimg.cc/zy6xRtzn/coin-5.png",
-    "author": "Grace",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
-  },
-  {
-    "id": "40",
-    "name": "Pink Popcorn",
-    "image": "https://i.postimg.cc/xq3pF352/coin-1.png",
-    "author": "Grace",
-    "recipe": "1. Mix colorful ingredients\n2. Add sugar sparkles\n3. Bake until golden\n4. Decorate with candy toppings"
+    "name": "Salted Caramel Brownies",
+    "image": "https://images.unsplash.com/photo-1622732795328-01728a444a11",
+    "author": "ChocoholicMike",
+    "prepTime": "25 mins",
+    "cookTime": "35 mins",
+    "servings": 16,
+    "difficulty": "Medium",
+    "ingredients": [
+      "1 cup unsalted butter",
+      "8 oz dark chocolate (70%)",
+      "1 1/4 cups granulated sugar",
+      "3/4 cup packed brown sugar",
+      "4 large eggs",
+      "1 tbsp vanilla extract",
+      "1 cup all-purpose flour",
+      "1/2 cup cocoa powder",
+      "1 tsp salt",
+      "1 cup caramel sauce",
+      "Flaky sea salt for topping"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C). Line 9x13 pan with parchment.",
+      "Melt butter and chocolate in double boiler; cool slightly.",
+      "Whisk in sugars, then eggs one at a time, then vanilla.",
+      "Sift in flour, cocoa and salt; fold until just combined.",
+      "Pour 2/3 batter into pan; drizzle with 1/2 cup caramel sauce.",
+      "Add remaining batter; swirl with knife.",
+      "Bake 30-35 minutes until toothpick comes out with moist crumbs.",
+      "Drizzle remaining caramel; sprinkle with sea salt.",
+      "Cool completely before cutting."
+    ],
+    "tips": "For cleaner cuts, chill brownies 2 hours before slicing with hot knife."
   }
 ]
